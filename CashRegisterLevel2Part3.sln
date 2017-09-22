@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CashRegisterUi", "CashRegisterUi\CashRegisterUi.csproj", "{729F77C0-6A0F-44CC-B5BF-67099DEAE37F}"
+	ProjectSection(ProjectDependencies) = postProject
+		{66881FA2-D5E4-43EB-9FD5-AAA43C0EB0B6} = {66881FA2-D5E4-43EB-9FD5-AAA43C0EB0B6}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CashRegister", "CashRegister\CashRegister.csproj", "{66881FA2-D5E4-43EB-9FD5-AAA43C0EB0B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CashRegisterTests", "CashRegisterTests\CashRegisterTests.csproj", "{A34F3678-BD1D-4125-90AA-57D4896F115A}"
+	ProjectSection(ProjectDependencies) = postProject
+		{66881FA2-D5E4-43EB-9FD5-AAA43C0EB0B6} = {66881FA2-D5E4-43EB-9FD5-AAA43C0EB0B6}
+		{729F77C0-6A0F-44CC-B5BF-67099DEAE37F} = {729F77C0-6A0F-44CC-B5BF-67099DEAE37F}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs.ext.geicoddc.net/tfs/geico
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = CashRegisterUi\\CashRegisterUi.csproj
+		SccProjectName1 = CashRegisterUi
+		SccLocalPath1 = CashRegisterUi
+		SccProjectUniqueName2 = CashRegister\\CashRegister.csproj
+		SccProjectName2 = CashRegister
+		SccLocalPath2 = CashRegister
+		SccProjectUniqueName3 = CashRegisterTests\\CashRegisterTests.csproj
+		SccProjectName3 = CashRegisterTests
+		SccLocalPath3 = CashRegisterTests
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{729F77C0-6A0F-44CC-B5BF-67099DEAE37F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{729F77C0-6A0F-44CC-B5BF-67099DEAE37F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{729F77C0-6A0F-44CC-B5BF-67099DEAE37F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{729F77C0-6A0F-44CC-B5BF-67099DEAE37F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66881FA2-D5E4-43EB-9FD5-AAA43C0EB0B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66881FA2-D5E4-43EB-9FD5-AAA43C0EB0B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66881FA2-D5E4-43EB-9FD5-AAA43C0EB0B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66881FA2-D5E4-43EB-9FD5-AAA43C0EB0B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A34F3678-BD1D-4125-90AA-57D4896F115A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A34F3678-BD1D-4125-90AA-57D4896F115A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A34F3678-BD1D-4125-90AA-57D4896F115A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A34F3678-BD1D-4125-90AA-57D4896F115A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

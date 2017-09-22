@@ -1,0 +1,10 @@
+C:\dev\ITTraining\CashRegisterLevel2Part3\CashRegister\obj\Debug\CashRegister.csprojResolveAssemblyReference.cache
+C:\dev\ITTraining\CashRegisterLevel2Part3\CashRegister\bin\Debug\CashRegister.dll
+C:\dev\ITTraining\CashRegisterLevel2Part3\CashRegister\bin\Debug\CashRegister.pdb
+C:\dev\ITTraining\CashRegisterLevel2Part3\CashRegister\bin\Debug\AutoMapper.dll
+C:\dev\ITTraining\CashRegisterLevel2Part3\CashRegister\bin\Debug\StructureMap.dll
+C:\dev\ITTraining\CashRegisterLevel2Part3\CashRegister\bin\Debug\AutoMapper.xml
+C:\dev\ITTraining\CashRegisterLevel2Part3\CashRegister\bin\Debug\StructureMap.xml
+C:\dev\ITTraining\CashRegisterLevel2Part3\CashRegister\obj\Debug\CashRegister.dll
+C:\dev\ITTraining\CashRegisterLevel2Part3\CashRegister\obj\Debug\CashRegister.pdb
+C:\dev\ITTraining\CashRegisterLevel2Part3\CashRegister\bin\Debug\AutoMapper.Net4.dll
